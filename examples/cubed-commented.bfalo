@@ -1,0 +1,14 @@
+Run this program and dump the memory to see the 3^3 result
+Buffalo Buffalo Buffalo Buffalo Buffalo Buffalo
+(
+    buffalo Buffalo
+    Buffalo Buffalo Buffalo Buffalo Buffalo Buffalo
+        (
+            buffalo Buffalo
+            Buffalo Buffalo Buffalo Buffalo Buffalo Buffalo
+            Buffalo buffalo
+            buffalo buffalo
+        )
+    Buffalo buffalo
+    buffalo buffalo
+)
